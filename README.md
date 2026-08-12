@@ -1,8 +1,7 @@
 <div align="center">
 
-<!-- Animated Floating Name -->
-<a href="https://github.com/Apurva-Adhav">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=42&duration=2800&pause=900&color=3776AB&center=true&vCenter=true&repeat=true&width=800&height=80&lines=Apurva+Adhav;AI%2FML+%26+Generative+AI;Building+Practical+AI+Solutions" alt="Apurva Adhav" />
+<a href="https://github.com/ApurvaAdhav">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=42&duration=2800&pause=900&color=3776AB&center=true&vCenter=true&repeat=true&width=800&height=80&lines=Apurva+Adhav;Innovating+Through+Technology+and+Practical+AI+Solutions+" alt="Hello👋, I'm Apurva Adhav" />
 </a>
 
 <h3>
@@ -25,13 +24,13 @@ intelligent applications and modern web solutions.
 <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://github.com/Apurva-Adhav">
-<img src="https://img.shields.io/badge/GitHub-Apurva--Adhav-181717?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/ApurvaAdhav">
+<img src="https://img.shields.io/badge/GitHub-ApurvaAdhav-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<br><br>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=Apurva-Adhav&label=Profile%20Views&color=3776AB&style=flat-square">
+<img src="https://komarev.com/ghpvc/?username=ApurvaAdhav&label=Profile%20Views&color=3776AB&style=flat-square">
 
 </div>
 
@@ -47,7 +46,7 @@ intelligent applications and modern web solutions.
 <tr>
 <td width="850">
 
-I am a **CSE (AIML) undergraduate at Sanjivani University** with a strong interest in **Artificial Intelligence, Machine Learning, Large Language Models, Generative AI and Full Stack Development**.
+I am a **CSE (AIML) undergraduate at Sanjivani University** with a strong interest in **Artificial Intelligence, Machine Learning, Large Language Models, Generative AI and Full Stack Development**. Through academic projects, I’ve worked on AI-based solutions and web applications, gaining hands-on experience across different stages of development.
 
 My current work focuses on applying AI to practical software systems, with hands-on experience in **RAG-based applications, LLM workflows, AI/ML development, NLP and backend integration**.
 
@@ -67,7 +66,7 @@ I enjoy transforming technical concepts into useful, scalable and user-focused a
 
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" />
 
-<br><br>
+<br>
 
 ### AI / Machine Learning
 
@@ -78,13 +77,13 @@ I enjoy transforming technical concepts into useful, scalable and user-focused a
 <img src="https://img.shields.io/badge/RAG-444444?style=for-the-badge">
 <img src="https://img.shields.io/badge/Computer%20Vision-006699?style=for-the-badge">
 
-<br><br>
+<br>
 
 ### Web Development
 
 <img src="https://skillicons.dev/icons?i=react,django,flask,html,css" />
 
-<br><br>
+<br>
 
 ### Databases & Tools
 
@@ -227,12 +226,12 @@ Responsive web platform developed to provide accessible temple information throu
 
 **Developer Students Club (DSC), Sanjivani University | 2025 – Present**
 
-Contributing to the **planning, coordination and execution of technical activities and initiatives**.
+Contributing to the **planning, coordination and execution of technical activities and student initiatives**.
 
 - Coordinating logistics and operational requirements for technical events.
-- Supporting communication and collaboration among team members.
-- Assisting in planning and executing student-focused technical initiatives.
-- Helping ensure smooth coordination and effective execution of club activities.
+- Supporting communication and collaboration across the team.
+- Assisting in planning and execution of technical workshops and initiatives.
+- Managing operational responsibilities to support smooth and effective event execution.
 
 </td>
 </tr>
@@ -246,23 +245,85 @@ Contributing to the **planning, coordination and execution of technical activiti
 
 <br>
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-102230?style=for-the-badge">
-<img src="https://img.shields.io/badge/Machine%20Learning-3776AB?style=for-the-badge">
-<img src="https://img.shields.io/badge/LLMs-5C2D91?style=for-the-badge">
-<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge">
-
+<table>
+<tr>
+<td align="center" width="25%">
+<b>Artificial Intelligence</b>
 <br><br>
+Applied AI Systems
+</td>
 
-<img src="https://img.shields.io/badge/RAG-444444?style=for-the-badge">
-<img src="https://img.shields.io/badge/NLP-006699?style=for-the-badge">
-<img src="https://img.shields.io/badge/Computer%20Vision-00838F?style=for-the-badge">
-<img src="https://img.shields.io/badge/AI%20Agents-6A1B9A?style=for-the-badge">
-
+<td align="center" width="25%">
+<b>Machine Learning</b>
 <br><br>
+Predictive & Intelligent Models
+</td>
 
-<img src="https://img.shields.io/badge/Full%20Stack%20Development-1F2937?style=for-the-badge">
-<img src="https://img.shields.io/badge/Backend%20Development-0F766E?style=for-the-badge">
-<img src="https://img.shields.io/badge/Intelligent%20Applications-7C3AED?style=for-the-badge">
+<td align="center" width="25%">
+<b>LLMs & Generative AI</b>
+<br><br>
+LLM Applications & AI Workflows
+</td>
+
+<td align="center" width="25%">
+<b>RAG & Knowledge Systems</b>
+<br><br>
+Retrieval & Grounded Generation
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>Natural Language Processing</b>
+<br><br>
+Language Understanding
+</td>
+
+<td align="center">
+<b>Computer Vision</b>
+<br><br>
+Image & Video Intelligence
+</td>
+
+<td align="center">
+<b>AI Agents</b>
+<br><br>
+Agentic & Intelligent Systems
+</td>
+
+<td align="center">
+<b>Full Stack Development</b>
+<br><br>
+AI-Integrated Applications
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>Backend Development</b>
+<br><br>
+APIs & Service Integration
+</td>
+
+<td align="center">
+<b>Intelligent Applications</b>
+<br><br>
+AI for Real-World Problems
+</td>
+
+<td align="center">
+<b>AI Engineering</b>
+<br><br>
+Model-to-Application Systems
+</td>
+
+<td align="center">
+<b>Emerging Technologies</b>
+<br><br>
+Exploration & Innovation
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -274,9 +335,9 @@ Contributing to the **planning, coordination and execution of technical activiti
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Apurva-Adhav&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=ApurvaAdhav&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurva-Adhav&layout=compact&hide_border=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApurvaAdhav&layout=compact&hide_border=true" height="170">
 
 </div>
 
@@ -288,11 +349,11 @@ Contributing to the **planning, coordination and execution of technical activiti
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Apurva-Adhav&bg_color=ffffff&color=3776AB&line=3776AB&point=24292F&area=true&hide_border=true" width="95%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ApurvaAdhav&bg_color=ffffff&color=3776AB&line=5B21B6&point=0F766E&area=true&hide_border=true" width="95%">
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Apurva-Adhav&hide_border=true" width="70%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ApurvaAdhav&hide_border=true" width="70%">
 
 </div>
 
@@ -300,17 +361,18 @@ Contributing to the **planning, coordination and execution of technical activiti
 
 <div align="center">
 
-## What I'm Building
+## Current Focus
 
 <table>
 <tr>
+
 <td align="center" width="250">
 
-<b>AI & ML</b>
+<b>AI & Machine Learning</b>
 
 <br><br>
 
-Developing practical machine learning and intelligent systems.
+Building and experimenting with practical intelligent systems.
 
 </td>
 
@@ -320,7 +382,7 @@ Developing practical machine learning and intelligent systems.
 
 <br><br>
 
-Exploring retrieval, knowledge systems and generative AI applications.
+Developing knowledge retrieval and generative AI applications.
 
 </td>
 
@@ -330,9 +392,10 @@ Exploring retrieval, knowledge systems and generative AI applications.
 
 <br><br>
 
-Building modern applications that connect AI with real-world workflows.
+Building modern applications that integrate AI with real-world workflows.
 
 </td>
+
 </tr>
 </table>
 
@@ -350,7 +413,7 @@ Building modern applications that connect AI with real-world workflows.
 <tr>
 <td align="center" width="700">
 
-**AI/ML • LLMs & Generative AI • Full Stack Development**
+<b>AI • Machine Learning • LLMs & Generative AI • Computer Vision • Software Development • Full Stack Development</b>
 
 <br><br>
 
@@ -382,34 +445,14 @@ Currently open to **internship and entry-level opportunities** where I can contr
 
 &nbsp;
 
-<a href="https://github.com/Apurva-Adhav">
-<img src="https://img.shields.io/badge/GITHUB-APURVA--ADHAV-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/apurva-adhav-843495338/">
-LinkedIn
-</a>
-&nbsp; • &nbsp;
-<a href="mailto:apurvaadhav16@gmail.com">
-Email
-</a>
-&nbsp; • &nbsp;
-<a href="https://github.com/Apurva-Adhav">
-GitHub
+<a href="https://github.com/ApurvaAdhav">
+<img src="https://img.shields.io/badge/GITHUB-APURVAADHAV-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <br><br>
 
 <sub>
 Building • Learning • Solving • Creating
-</sub>
-
-</div>
-
-<sub>
-AI • Machine Learning • LLMs & Generative AI • Full Stack Development 
 </sub>
 
 </div>
