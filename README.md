@@ -1,12 +1,16 @@
 <div align="center">
 
-# Hello, I'm Apurva Adhav
+<h1>
+<span style="color:#3776AB;"> Hello, I'm Apurva Adhav</span>
+</h1>
 
-### AI/ML & LLMs | Generative AI | Full Stack Development
+<h3>
+AI/ML • LLMs & Generative AI • RAG • Full Stack Development
+</h3>
 
 <p>
-Final-year CSE (AIML) undergraduate focused on building practical solutions<br>
-using Artificial Intelligence, Machine Learning and modern web technologies.
+CSE (AIML) undergraduate building practical AI-powered systems,<br>
+intelligent applications and modern web solutions.
 </p>
 
 <p>
@@ -37,11 +41,11 @@ using Artificial Intelligence, Machine Learning and modern web technologies.
 <tr>
 <td width="850">
 
-I'm a final-year CSE (AIML) undergraduate at **Sanjivani University** with a strong interest in **Artificial Intelligence, Machine Learning, LLMs, Generative AI and Full Stack Development**.
+I am a **CSE (AIML) undergraduate at Sanjivani University** with a strong interest in **Artificial Intelligence, Machine Learning, Large Language Models, Generative AI and Full Stack Development**. Through academic projects, I’ve worked on AI-based solutions and web applications, gaining hands-on experience across different stages of development. 
 
-Through internships and academic projects, I have gained hands-on experience in **LLM post-training, model evaluation, AI/ML development, NLP, cloud technologies and web application development**.
+My current work focuses on applying AI to practical software systems, with hands-on experience in **RAG-based applications, LLM workflows, AI/ML development, NLP and backend integration**.
 
-I enjoy working on practical problems, exploring new technologies and developing solutions that can be applied to real-world use cases.
+I enjoy transforming technical concepts into useful, scalable and user-focused applications while continuously exploring emerging technologies.
 
 </td>
 </tr>
@@ -57,7 +61,7 @@ I enjoy working on practical problems, exploring new technologies and developing
 
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" />
 
-<br><br>
+<br>
 
 ### AI / Machine Learning
 
@@ -68,13 +72,13 @@ I enjoy working on practical problems, exploring new technologies and developing
 <img src="https://img.shields.io/badge/RAG-444444?style=for-the-badge">
 <img src="https://img.shields.io/badge/Computer%20Vision-006699?style=for-the-badge">
 
-<br><br>
+<br>
 
 ### Web Development
 
 <img src="https://skillicons.dev/icons?i=react,django,flask,html,css" />
 
-<br><br>
+<br>
 
 ### Databases & Tools
 
@@ -86,7 +90,7 @@ I enjoy working on practical problems, exploring new technologies and developing
 
 <div align="center">
 
-## Experience
+## Current Experience
 
 </div>
 
@@ -95,27 +99,13 @@ I enjoy working on practical problems, exploring new technologies and developing
 <td width="850">
 
 ### Software Developer — AI & Full Stack Intern
+
 **Teqsys LLP | Aug 2026 – Present**
 
-• Contributing to an AI-powered Service Data Insights solution for the VANTAGEO platform.  
-• Working on a RAG-based knowledge retrieval system for enterprise support documents.  
-• Integrating backend services using Strapi to support data management and AI workflows.
-
----
-
-### LLM Post Training Intern
-**Ethara AI | Jan 2026 – May 2026**
-
-• Worked on LLM post-training and fine-tuning workflows, including dataset preparation, preprocessing, validation and model evaluation.  
-• Analyzed LLM outputs to improve accuracy, relevance and instruction-following.
-
----
-
-### AI & Cloud Intern
-**IBM SkillBuild | Jun 2025 – Jul 2025**
-
-• Developed and deployed AI models using IBM Cloud and watsonx.ai.  
-• Built an NLP-based chatbot using IBM Watson Assistant for automated user query handling.
+- Contributing to an **AI-powered Service Data Insights solution** for the VANTAGEO platform.
+- Working on a **RAG-based knowledge retrieval system** for enterprise support documentation.
+- Integrating **Strapi backend services** to support data management and AI workflows.
+- Exploring data extraction, structuring and retrieval workflows for AI-driven service insights.
 
 </td>
 </tr>
@@ -130,6 +120,7 @@ I enjoy working on practical problems, exploring new technologies and developing
 </div>
 
 <table align="center">
+
 <tr>
 
 <td width="50%" valign="top">
@@ -138,7 +129,7 @@ I enjoy working on practical problems, exploring new technologies and developing
 
 REST-based system for analyzing GitHub repositories, project structures and dependencies.
 
-Integrated LLaMA 3 with Ollama for repository-aware code understanding, semantic search and natural-language Q&A.
+Integrated **LLaMA 3 with Ollama** for repository-aware code understanding, semantic search and natural-language Q&A.
 
 **Technologies**
 
@@ -168,7 +159,7 @@ AI-based surveillance system for real-time suspicious activity detection using p
 
 ### Health Predictor
 
-AI-powered health prediction system using Random Forest, Logistic Regression and CNN models with a React.js dashboard.
+AI-powered health prediction system using **Random Forest, Logistic Regression and CNN models**, supported by a React.js dashboard.
 
 **Technologies**
 
@@ -181,7 +172,7 @@ AI-powered health prediction system using Random Forest, Logistic Regression and
 
 ### Inventory Management System
 
-Full-stack inventory management application supporting product management, inventory tracking, billing, invoice generation, stock updates and sales management.
+Full-stack application supporting product management, inventory tracking, billing, invoice generation, stock updates and sales management.
 
 **Technologies**
 
@@ -198,7 +189,7 @@ Full-stack inventory management application supporting product management, inven
 
 ### Vitthal Rukmini Temple Official Website
 
-Responsive website developed to provide accessible information through a user-friendly web platform.
+Responsive web platform developed to provide accessible temple information through a clean and user-friendly interface.
 
 **Technologies**
 
@@ -211,6 +202,7 @@ Responsive website developed to provide accessible information through a user-fr
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -219,20 +211,22 @@ Responsive website developed to provide accessible information through a user-fr
 
 ## Leadership & Contributions
 
-<table>
+</div>
+
+<table align="center">
 <tr>
 <td width="850">
 
 ### Logistics & Operations Leader
-**Developer Students Club (DSC), Sanjivani University | 2025 – Present**
+**Developer Students Club (DSC), Sanjivani University**
 
-Contributing to the planning, coordination and execution of technical activities and initiatives, while supporting collaboration and smooth event operations.
+Contributing to the **planning, coordination and execution of technical events and initiatives**, while supporting team collaboration, operational planning and smooth execution of club activities.
+
+My role involves coordinating logistics, communicating with team members, supporting event execution and helping ensure that technical initiatives are organized effectively.
 
 </td>
 </tr>
 </table>
-
-</div>
 
 ---
 
@@ -240,14 +234,30 @@ Contributing to the planning, coordination and execution of technical activities
 
 ## Areas of Interest
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-1F2937?style=flat-square">
-<img src="https://img.shields.io/badge/Machine%20Learning-1F2937?style=flat-square">
-<img src="https://img.shields.io/badge/LLMs-1F2937?style=flat-square">
-<img src="https://img.shields.io/badge/Generative%20AI-1F2937?style=flat-square">
-<img src="https://img.shields.io/badge/NLP-1F2937?style=flat-square">
-<img src="https://img.shields.io/badge/Computer%20Vision-1F2937?style=flat-square">
-<img src="https://img.shields.io/badge/RAG-1F2937?style=flat-square">
-<img src="https://img.shields.io/badge/Full%20Stack%20Development-1F2937?style=flat-square">
+<br>
+
+<table>
+<tr>
+<td align="center"><b>Artificial Intelligence</b></td>
+<td align="center"><b>Machine Learning</b></td>
+<td align="center"><b>Large Language Models</b></td>
+<td align="center"><b>Generative AI</b></td>
+</tr>
+
+<tr>
+<td align="center"><b>Retrieval-Augmented Generation</b></td>
+<td align="center"><b>Natural Language Processing</b></td>
+<td align="center"><b>Computer Vision</b></td>
+<td align="center"><b>AI Agents</b></td>
+</tr>
+
+<tr>
+<td align="center"><b>Full Stack Development</b></td>
+<td align="center"><b>Backend Development</b></td>
+<td align="center"><b>Cloud & AI Services</b></td>
+<td align="center"><b>Intelligent Applications</b></td>
+</tr>
+</table>
 
 </div>
 
@@ -259,7 +269,7 @@ Contributing to the planning, coordination and execution of technical activities
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Apurva-Adhav&show_icons=true&hide_border=true&rank_icon=github" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=Apurva-Adhav&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurva-Adhav&layout=compact&hide_border=true" height="170">
 
@@ -273,7 +283,7 @@ Contributing to the planning, coordination and execution of technical activities
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Apurva-Adhav&hide_border=true&area=true" width="95%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Apurva-Adhav&bg_color=ffffff&color=3776AB&line=3776AB&point=24292F&area=true&hide_border=true" width="95%">
 
 </div>
 
@@ -281,29 +291,17 @@ Contributing to the planning, coordination and execution of technical activities
 
 <div align="center">
 
-## GitHub Trophies
+## Open To Opportunities
 
 <br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Apurva-Adhav&theme=flat&no-frame=true&no-bg=true&row=1&column=6">
-
-</div>
-
----
-
-<div align="center">
-
-## I’m currently seeking opportunities where I can apply my skills, contribute to meaningful projects, and continue developing my skills while working with an experienced team.
 
 <table>
 <tr>
-<td align="center">
+<td align="center" width="700">
 
-**Open to Internship & Entry-Level Opportunities**
+### AI • Machine Learning • LLMs & Generative AI • Computer Vision • Full Stack Development 
 
-<br>
-
-AI/ML &nbsp; • &nbsp; LLMs & Generative AI &nbsp; • &nbsp; Full Stack Development
+Currently open to **internship and entry-level opportunities** where I can contribute to real-world projects, work with experienced teams and continue developing my technical expertise.
 
 </td>
 </tr>
@@ -337,7 +335,17 @@ AI/ML &nbsp; • &nbsp; LLMs & Generative AI &nbsp; • &nbsp; Full Stack Develo
 
 <br><br>
 
-**apurvaadhav16@gmail.com**
+<a href="https://www.linkedin.com/in/apurva-adhav-843495338/">
+LinkedIn
+</a>
+&nbsp; • &nbsp;
+<a href="mailto:apurvaadhav16@gmail.com">
+Email
+</a>
+&nbsp; • &nbsp;
+<a href="https://github.com/Apurva-Adhav">
+GitHub
+</a>
 
 </div>
 
@@ -345,6 +353,8 @@ AI/ML &nbsp; • &nbsp; LLMs & Generative AI &nbsp; • &nbsp; Full Stack Develo
 
 <div align="center">
 
-<sub>AI/ML • LLMs • Generative AI • Full Stack Development</sub>
+<sub>
+AI • Machine Learning • LLMs & Generative AI • Full Stack Development 
+</sub>
 
 </div>
