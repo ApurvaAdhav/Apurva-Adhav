@@ -46,7 +46,15 @@ Through academic projects and practical development work, I have gained hands-on
 
 My current work focuses on applying AI to practical software systems, with experience in <span style="color:#2563EB">RAG-based applications</span>, <span style="color:#2563EB">LLM workflows</span>, <span style="color:#2563EB">AI/ML development</span>, <span style="color:#2563EB">NLP</span>, backend integration and data-driven solutions.
 
-Ready to contribute, collaborate and build technology that creates real-world impact.
+<p align="center">
+<font color="#2563EB"><b>Ready to contribute.</b></font>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+Collaborate with innovative teams
+&nbsp;&nbsp;•&nbsp;&nbsp;
+Build meaningful solutions
+&nbsp;&nbsp;•&nbsp;&nbsp;
+Create real-world impact
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px"/>
 
@@ -276,7 +284,5 @@ Currently open to internship and entry-level opportunities where I can contribut
 <br/><br/>
 
 <sub><b>Building • Learning • Solving • Creating</b></sub>
-
-</div>
 
 </div>
