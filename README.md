@@ -23,19 +23,19 @@ intelligent applications and modern web solutions.
 
 <td>
 <a href="https://www.linkedin.com/in/apurva-adhav-843495338/">
-<img src="https://img.shields.io/badge/LinkedIn-Apurva%20Adhav-2563EB?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-APURVA%20ADHAV-2563EB?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </td>
 
 <td>
 <a href="mailto:apurvaadhav16@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-374151?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-CONTACT%20ME-2563EB?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 </td>
 
 <td>
 <a href="https://github.com/ApurvaAdhav">
-<img src="https://img.shields.io/badge/GitHub-ApurvaAdhav-1F2937?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-APURVAADHAV-2563EB?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </td>
 
