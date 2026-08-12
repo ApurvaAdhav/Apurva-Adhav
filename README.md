@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/ApurvaAdhav">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=42&duration=2800&pause=900&color=3776AB&center=true&vCenter=true&repeat=true&width=800&height=80&lines=Hello👋+Apurva+Adhav;+Innovating+Through+Technology+and+Practical+Solutions+" alt="Hello👋, I'm Apurva Adhav" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=42&duration=2800&pause=900&color=3776AB&center=true&vCenter=true&repeat=true&width=800&height=80&lines=Hello👋+Apurva+Adhav;Innovating+Through+Technology+and+Practical+Solutions+" alt="Hello👋, I'm Apurva Adhav" />
 </a>
 
 <h3>
