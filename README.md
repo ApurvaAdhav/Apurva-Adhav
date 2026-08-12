@@ -1,11 +1,13 @@
 <div align="center">
 
 <a href="https://github.com/ApurvaAdhav">
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=42&duration=2800&pause=900&color=3776AB&center=true&vCenter=true&repeat=true&width=800&height=80&lines=Hello👋+Apurva+Adhav;Innovating+Through+Technology+and+Practical+Solutions+" alt="Hello👋, I'm Apurva Adhav" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=42&duration=2800&pause=900&color=3776AB&center=true&vCenter=true&repeat=true&width=850&height=80&lines=Hello+%F0%9F%91%8B+I'm+Apurva+Adhav;Innovating+Through+Technology+and+Practical+Solutions" alt="Hello, I'm Apurva Adhav" />
+
 </a>
 
 <h3>
-Artificial Intelligence • Machine Learning • LLMs • Full Stack Development
+Artificial Intelligence • Machine Learning • LLMs • Generative AI • Full Stack Development
 </h3>
 
 <p>
@@ -20,17 +22,21 @@ intelligent applications and modern web solutions.
 <img src="https://img.shields.io/badge/LinkedIn-Apurva%20Adhav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+&nbsp;&nbsp;
+
 <a href="mailto:apurvaadhav16@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://github.com/ApurvaAdhav">
 <img src="https://img.shields.io/badge/GitHub-ApurvaAdhav-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ApurvaAdhav&label=Profile%20Views&color=3776AB&style=flat-square">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=16&duration=3000&pause=900&color=64748B&center=true&vCenter=true&repeat=true&width=750&height=35&lines=Building+%E2%80%A2+Learning+%E2%80%A2+Experimenting+%E2%80%A2+Improving" alt="Building Learning Experimenting Improving">
 
 </div>
 
@@ -38,7 +44,7 @@ intelligent applications and modern web solutions.
 
 <div align="center">
 
-## About Me
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&duration=2500&pause=800&color=2563EB&center=true&vCenter=true&repeat=false&width=500&height=50&lines=About+Me" alt="About Me">
 
 </div>
 
@@ -46,9 +52,11 @@ intelligent applications and modern web solutions.
 <tr>
 <td width="850">
 
-I am a **CSE (AIML) undergraduate at Sanjivani University** with a strong interest in **Artificial Intelligence, Machine Learning, Large Language Models, Generative AI and Full Stack Development**. Through academic projects, I’ve worked on AI-based solutions and web applications, gaining hands-on experience across different stages of development.
+I am a **CSE (AIML) undergraduate at Sanjivani University** with a strong interest in **Artificial Intelligence, Machine Learning, Large Language Models, Generative AI and Full Stack Development**.
 
-My current work focuses on applying AI to practical software systems, with hands-on experience in **RAG-based applications, LLM workflows, AI/ML development, NLP and backend integration**.
+Through academic projects and practical development work, I have gained hands-on experience in building AI-powered solutions, web applications and intelligent software systems.
+
+My current work focuses on applying AI to practical software systems, with experience in **RAG-based applications, LLM workflows, AI/ML development, NLP, backend integration and data-driven solutions**.
 
 I enjoy transforming technical concepts into useful, scalable and user-focused applications while continuously exploring emerging technologies.
 
@@ -60,32 +68,34 @@ I enjoy transforming technical concepts into useful, scalable and user-focused a
 
 <div align="center">
 
-## Technical Skills
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&repeat=false&width=600&height=50&lines=Technical+Skills" alt="Technical Skills">
 
-### Programming
+<br><br>
+
+### <img src="https://img.shields.io/badge/Programming-2563EB?style=for-the-badge&logoColor=white">
 
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" />
 
-<br>
+<br><br>
 
-### AI / Machine Learning
+### <img src="https://img.shields.io/badge/AI%20%2F%20Machine%20Learning-7C3AED?style=for-the-badge&logoColor=white">
 
 <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge">
 <img src="https://img.shields.io/badge/LLMs-5C2D91?style=for-the-badge">
 <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge">
 <img src="https://img.shields.io/badge/NLP-3776AB?style=for-the-badge">
-<img src="https://img.shields.io/badge/RAG-444444?style=for-the-badge">
+<img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge">
 <img src="https://img.shields.io/badge/Computer%20Vision-006699?style=for-the-badge">
 
-<br>
+<br><br>
 
-### Web Development
+### <img src="https://img.shields.io/badge/Web%20Development-0F766E?style=for-the-badge&logoColor=white">
 
 <img src="https://skillicons.dev/icons?i=react,django,flask,html,css" />
 
-<br>
+<br><br>
 
-### Databases & Tools
+### <img src="https://img.shields.io/badge/Databases%20%26%20Tools-EA580C?style=for-the-badge&logoColor=white">
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,vscode" />
 
@@ -95,7 +105,7 @@ I enjoy transforming technical concepts into useful, scalable and user-focused a
 
 <div align="center">
 
-## Current Experience
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&duration=2500&pause=800&color=EA580C&center=true&vCenter=true&repeat=false&width=600&height=50&lines=Current+Experience" alt="Current Experience">
 
 </div>
 
@@ -107,10 +117,13 @@ I enjoy transforming technical concepts into useful, scalable and user-focused a
 
 **Teqsys LLP | Aug 2026 – Present**
 
+<img src="https://img.shields.io/badge/AI%20%26%20Full%20Stack-2563EB?style=flat-square">
+
 - Contributing to an **AI-powered Service Data Insights solution** for the VANTAGEO platform.
 - Working on a **RAG-based knowledge retrieval system** for enterprise support documentation.
 - Integrating **Strapi backend services** to support data management and AI workflows.
-- Exploring data extraction, structuring and retrieval workflows for AI-driven service insights.
+- Exploring **data extraction, structuring and retrieval workflows** for AI-driven service insights.
+- Contributing to the development of AI-integrated backend and application workflows.
 
 </td>
 </tr>
@@ -120,7 +133,7 @@ I enjoy transforming technical concepts into useful, scalable and user-focused a
 
 <div align="center">
 
-## Featured Projects
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&duration=2500&pause=800&color=DB2777&center=true&vCenter=true&repeat=false&width=600&height=50&lines=Featured+Projects" alt="Featured Projects">
 
 </div>
 
@@ -204,6 +217,15 @@ Responsive web platform developed to provide accessible temple information throu
 
 <td width="50%" valign="top">
 
+### AI-Powered Intelligent Applications
+
+Exploring practical applications that combine **AI/ML, LLMs, NLP, RAG and modern web technologies** to solve real-world problems.
+
+**Focus Areas**
+
+`AI/ML` `LLMs` `RAG`  
+`NLP` `Full Stack`
+
 </td>
 
 </tr>
@@ -214,7 +236,7 @@ Responsive web platform developed to provide accessible temple information throu
 
 <div align="center">
 
-## Leadership & Contributions
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&duration=2500&pause=800&color=16A34A&center=true&vCenter=true&repeat=false&width=700&height=50&lines=Leadership+%26+Contributions" alt="Leadership and Contributions">
 
 </div>
 
@@ -226,12 +248,15 @@ Responsive web platform developed to provide accessible temple information throu
 
 **Developer Students Club (DSC), Sanjivani University | 2025 – Present**
 
-Contributing to the **planning, coordination and execution of technical activities and student initiatives**.
+<img src="https://img.shields.io/badge/Leadership-16A34A?style=flat-square">
 
-- Coordinating logistics and operational requirements for technical events.
-- Supporting communication and collaboration across the team.
-- Assisting in planning and execution of technical workshops and initiatives.
-- Managing operational responsibilities to support smooth and effective event execution.
+Contributing to the planning, coordination and execution of technical activities and student initiatives.
+
+- Coordinating **logistics and operational requirements** for technical events and activities.
+- Supporting **team communication, coordination and collaboration** across student teams.
+- Assisting in the planning and execution of **technical workshops, events and initiatives**.
+- Managing operational responsibilities to help ensure **organized and smooth event execution**.
+- Supporting the team in maintaining effective coordination between planning and on-ground execution.
 
 </td>
 </tr>
@@ -241,88 +266,192 @@ Contributing to the **planning, coordination and execution of technical activiti
 
 <div align="center">
 
-## Areas of Interest
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&duration=2500&pause=800&color=0891B2&center=true&vCenter=true&repeat=false&width=650&height=50&lines=Areas+of+Interest" alt="Areas of Interest">
 
-<br>
+<br><br>
 
 <table>
+
 <tr>
+
 <td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/AI-2563EB?style=for-the-badge&logoColor=white">
+
+<br><br>
+
 <b>Artificial Intelligence</b>
+
 <br><br>
-Applied AI Systems
+
+<sub>Applied AI Systems</sub>
+
 </td>
 
 <td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/ML-7C3AED?style=for-the-badge&logoColor=white">
+
+<br><br>
+
 <b>Machine Learning</b>
+
 <br><br>
-Predictive & Intelligent Models
+
+<sub>Predictive & Intelligent Models</sub>
+
 </td>
 
 <td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/LLMs-9333EA?style=for-the-badge&logoColor=white">
+
+<br><br>
+
 <b>LLMs & Generative AI</b>
+
 <br><br>
-LLM Applications & AI Workflows
+
+<sub>LLM Applications & AI Workflows</sub>
+
 </td>
 
 <td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge&logoColor=white">
+
+<br><br>
+
 <b>RAG & Knowledge Systems</b>
+
 <br><br>
-Retrieval & Grounded Generation
+
+<sub>Retrieval & Grounded Generation</sub>
+
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center">
+
+<img src="https://img.shields.io/badge/NLP-0284C7?style=for-the-badge&logoColor=white">
+
+<br><br>
+
 <b>Natural Language Processing</b>
+
 <br><br>
-Language Understanding
+
+<sub>Language Understanding</sub>
+
 </td>
 
 <td align="center">
+
+<img src="https://img.shields.io/badge/CV-0369A1?style=for-the-badge&logoColor=white">
+
+<br><br>
+
 <b>Computer Vision</b>
+
 <br><br>
-Image & Video Intelligence
+
+<sub>Image & Video Intelligence</sub>
+
 </td>
 
 <td align="center">
+
+<img src="https://img.shields.io/badge/Agents-DB2777?style=for-the-badge&logoColor=white">
+
+<br><br>
+
 <b>AI Agents</b>
+
 <br><br>
-Agentic & Intelligent Systems
+
+<sub>Agentic & Intelligent Systems</sub>
+
 </td>
 
 <td align="center">
-<b>Full Stack Development</b>
-<br><br>
-AI-Integrated Applications
-</td>
-</tr>
 
-<tr>
-<td align="center">
-<b>Backend Development</b>
-<br><br>
-APIs & Service Integration
-</td>
+<img src="https://img.shields.io/badge/Engineering-EA580C?style=for-the-badge&logoColor=white">
 
-<td align="center">
-<b>Intelligent Applications</b>
 <br><br>
-AI for Real-World Problems
-</td>
 
-<td align="center">
 <b>AI Engineering</b>
+
 <br><br>
-Model-to-Application Systems
+
+<sub>Model-to-Application Systems</sub>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/Full%20Stack-16A34A?style=for-the-badge&logoColor=white">
+
+<br><br>
+
+<b>Full Stack Development</b>
+
+<br><br>
+
+<sub>AI-Integrated Applications</sub>
+
 </td>
 
 <td align="center">
+
+<img src="https://img.shields.io/badge/Backend-475569?style=for-the-badge&logoColor=white">
+
+<br><br>
+
+<b>Backend Development</b>
+
+<br><br>
+
+<sub>APIs & Service Integration</sub>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/Intelligent%20Apps-CA8A04?style=for-the-badge&logoColor=white">
+
+<br><br>
+
+<b>Intelligent Applications</b>
+
+<br><br>
+
+<sub>AI for Real-World Problems</sub>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/Innovation-64748B?style=for-the-badge&logoColor=white">
+
+<br><br>
+
 <b>Emerging Technologies</b>
+
 <br><br>
-Exploration & Innovation
+
+<sub>Exploration & Innovation</sub>
+
 </td>
+
 </tr>
+
 </table>
 
 </div>
@@ -331,29 +460,15 @@ Exploration & Innovation
 
 <div align="center">
 
-## GitHub Statistics
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ApurvaAdhav&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApurvaAdhav&layout=compact&hide_border=true" height="170">
-
-</div>
-
----
-
-<div align="center">
-
-## Contribution Activity
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ApurvaAdhav&bg_color=ffffff&color=3776AB&line=5B21B6&point=0F766E&area=true&hide_border=true" width="95%">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&repeat=false&width=600&height=50&lines=GitHub+Statistics" alt="GitHub Statistics">
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ApurvaAdhav&hide_border=true" width="70%">
+<img src="https://github-readme-stats.vercel.app/api?username=ApurvaAdhav&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=2563EB&icon_color=7C3AED&text_color=334155" height="170">
+
+&nbsp;&nbsp;
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApurvaAdhav&layout=compact&hide_border=true&theme=transparent&title_color=0F766E&text_color=334155" height="170">
 
 </div>
 
@@ -361,43 +476,85 @@ Exploration & Innovation
 
 <div align="center">
 
-## Current Focus
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&duration=2500&pause=800&color=0F766E&center=true&vCenter=true&repeat=false&width=700&height=50&lines=Contribution+Activity" alt="Contribution Activity">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ApurvaAdhav&bg_color=ffffff&color=2563EB&line=7C3AED&point=0F766E&area=true&hide_border=true&custom_title=Apurva%20Adhav's%20Contribution%20Graph" width="95%">
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ApurvaAdhav&hide_border=true&theme=transparent&ring=7C3AED&fire=EA580C&currStreakLabel=2563EB&sideLabels=475569" width="70%">
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&duration=2500&pause=800&color=EA580C&center=true&vCenter=true&repeat=false&width=500&height=50&lines=Current+Focus" alt="Current Focus">
+
+<br><br>
 
 <table>
+
 <tr>
 
-<td align="center" width="250">
+<td align="center" width="33%">
 
-<b>AI & Machine Learning</b>
+<img src="https://img.shields.io/badge/01-AI%20%26%20ML-2563EB?style=for-the-badge">
 
 <br><br>
 
-Building and experimenting with practical intelligent systems.
+<b>Applied AI Development</b>
+
+<br><br>
+
+<sub>
+Building practical AI/ML systems and exploring intelligent solutions for real-world applications.
+</sub>
 
 </td>
 
-<td align="center" width="250">
+<td align="center" width="33%">
 
-<b>LLMs & RAG</b>
+<img src="https://img.shields.io/badge/02-LLMs%20%26%20RAG-7C3AED?style=for-the-badge">
 
 <br><br>
 
-Developing knowledge retrieval and generative AI applications.
+<b>Knowledge-Driven AI</b>
+
+<br><br>
+
+<sub>
+Developing RAG-based applications, LLM workflows and knowledge retrieval systems.
+</sub>
 
 </td>
 
-<td align="center" width="250">
+<td align="center" width="33%">
 
-<b>Full Stack</b>
+<img src="https://img.shields.io/badge/03-Full%20Stack-0F766E?style=for-the-badge">
 
 <br><br>
 
-Building modern applications that integrate AI with real-world workflows.
+<b>AI-Integrated Applications</b>
+
+<br><br>
+
+<sub>
+Building modern applications with backend services, APIs and AI-powered workflows.
+</sub>
 
 </td>
 
 </tr>
+
 </table>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=16&duration=3000&pause=900&color=64748B&center=true&vCenter=true&repeat=true&width=850&height=35&lines=Learning+%E2%80%A2+Building+%E2%80%A2+Experimenting+%E2%80%A2+Improving" alt="Learning Building Experimenting Improving">
 
 </div>
 
@@ -405,15 +562,19 @@ Building modern applications that integrate AI with real-world workflows.
 
 <div align="center">
 
-## Open To Opportunities
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&duration=2500&pause=800&color=16A34A&center=true&vCenter=true&repeat=false&width=650&height=50&lines=Open+To+Opportunities" alt="Open To Opportunities">
 
-<br>
+<br><br>
 
-<table>
+<table align="center">
 <tr>
-<td align="center" width="700">
+<td align="center" width="750">
 
-<b>AI • Machine Learning • LLMs & Generative AI • Computer Vision • Software Development • Full Stack Development</b>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-2563EB?style=for-the-badge">
+<img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge">
+<img src="https://img.shields.io/badge/Generative%20AI-9333EA?style=for-the-badge">
+<img src="https://img.shields.io/badge/Software%20Development-0F766E?style=for-the-badge">
+<img src="https://img.shields.io/badge/Full%20Stack-EA580C?style=for-the-badge">
 
 <br><br>
 
@@ -429,27 +590,37 @@ Currently open to **internship and entry-level opportunities** where I can contr
 
 <div align="center">
 
-## Connect With Me
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&duration=2500&pause=800&color=0891B2&center=true&vCenter=true&repeat=false&width=500&height=50&lines=Connect+With+Me" alt="Connect With Me">
 
-<br>
+<br><br>
 
 <a href="https://www.linkedin.com/in/apurva-adhav-843495338/">
-<img src="https://img.shields.io/badge/LINKEDIN-APURVA%20ADHAV-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-Apurva%20Adhav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:apurvaadhav16@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-CONTACT%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/ApurvaAdhav">
-<img src="https://img.shields.io/badge/GITHUB-APURVAADHAV-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-ApurvaAdhav-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=16&duration=3000&pause=1000&color=64748B&center=true&vCenter=true&repeat=true&width=700&height=35&lines=Let's+build+something+meaningful+with+technology." alt="Let's build something meaningful">
+
+<br><br>
+
+<sub>
+Building • Learning • Solving • Creating
+</sub>
+
+</div>
 
 <sub>
 Building • Learning • Solving • Creating
