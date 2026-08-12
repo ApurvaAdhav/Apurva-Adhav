@@ -1,10 +1,10 @@
 <div align="center">
 
 <a href="https://github.com/ApurvaAdhav">
-
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=42&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&repeat=true&width=850&height=80&lines=Hello+%F0%9F%91%8B+I'm+Apurva+Adhav;Innovating+Through+Technology+and+Practical+Solutions" alt="Hello, I'm Apurva Adhav">
-
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=38&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&repeat=true&width=1100&height=90&lines=Hello+%F0%9F%91%8B+I'm+Apurva+Adhav;Innovating+Through+Technology+and+Practical+Solutions" alt="Hello, I'm Apurva Adhav">
 </a>
+
+<br>
 
 <h3>
 AI/ML • LLMs & Generative AI • Full Stack Development
@@ -15,6 +15,38 @@ CSE (AIML) undergraduate focused on building practical AI-powered systems,
 <br>
 intelligent applications and modern web solutions.
 </p>
+
+<br>
+
+<table align="center">
+<tr>
+
+<td>
+<a href="https://www.linkedin.com/in/apurva-adhav-843495338/">
+<img src="https://img.shields.io/badge/LinkedIn-Apurva%20Adhav-2563EB?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</td>
+
+<td>
+<a href="mailto:apurvaadhav16@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-374151?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</td>
+
+<td>
+<a href="https://github.com/ApurvaAdhav">
+<img src="https://img.shields.io/badge/GitHub-ApurvaAdhav-1F2937?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=15&duration=3000&pause=900&color=64748B&center=true&vCenter=true&repeat=true&width=700&height=30&lines=Building+%E2%80%A2+Learning+%E2%80%A2+Solving+%E2%80%A2+Creating" alt="Building Learning Solving Creating">
+
+</div>
 
 <br>
 
