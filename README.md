@@ -42,36 +42,6 @@ intelligent applications and modern web solutions.
 </tr>
 </table>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=15&duration=3000&pause=900&color=64748B&center=true&vCenter=true&repeat=true&width=700&height=30&lines=Building+%E2%80%A2+Learning+%E2%80%A2+Solving+%E2%80%A2+Creating" alt="Building Learning Solving Creating">
-
-</div>
-
-<br>
-
-<a href="https://www.linkedin.com/in/apurva-adhav-843495338/">
-<img src="https://img.shields.io/badge/LinkedIn-Apurva%20Adhav-2563EB?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:apurvaadhav16@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-374151?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/ApurvaAdhav">
-<img src="https://img.shields.io/badge/GitHub-ApurvaAdhav-1F2937?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=15&duration=3000&pause=900&color=64748B&center=true&vCenter=true&repeat=true&width=700&height=30&lines=Building+%E2%80%A2+Learning+%E2%80%A2+Solving+%E2%80%A2+Creating" alt="Building Learning Solving Creating">
-
-</div>
-
 ---
 
 <div align="center">
