@@ -46,25 +46,23 @@ intelligent applications and modern web solutions.
 
 <div align="center">
 
-## <font color="#2563EB">About Me</font>
+<h2><font color="#2563EB">About Me</font></h2>
 
 </div>
 
-<table align="center">
-<tr>
-<td width="850">
+<p>
 
-I am a **CSE (AIML) undergraduate at Sanjivani University** with a strong interest in **Artificial Intelligence, Machine Learning, Large Language Models, Generative AI and Full Stack Development**.
+I am a CSE (AIML) undergraduate at Sanjivani University with a strong interest in Artificial Intelligence, Machine Learning, Large Language Models, Generative AI and Full Stack Development. Through academic projects and practical development work, I have gained hands-on experience in building AI-powered solutions, web applications and intelligent software systems.
 
-Through academic projects and practical development work, I have gained hands-on experience in building AI-powered solutions, web applications and intelligent software systems.
+<br>
 
-My current work focuses on applying AI to practical software systems, with experience in **RAG-based applications, LLM workflows, AI/ML development, NLP, backend integration and data-driven solutions**.
+My current work focuses on applying AI to practical software systems, with experience in <b>RAG-based applications, LLM workflows, AI/ML development, NLP, backend integration and data-driven solutions.</b>
 
-I enjoy transforming technical concepts into useful, scalable and user-focused applications while continuously exploring emerging technologies.
+<br>
 
-</td>
-</tr>
-</table>
+I am eager to contribute my technical skills to meaningful projects, collaborate with innovative teams, and create solutions that deliver real-world impact.
+
+</p>
 
 ---
 
